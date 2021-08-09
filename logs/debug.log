@@ -1,0 +1,2023 @@
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-06T15:37:22.595Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T15:37:22.637Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T15:37:22.641Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T15:37:22.673Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-06T15:42:42.333Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T15:42:42.369Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T15:42:42.373Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T15:42:42.446Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-06T15:43:21.590Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T15:43:21.591Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-06T15:43:49.140Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T15:43:49.141Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-06T15:53:05.225Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T15:53:05.286Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T15:53:05.296Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T15:53:05.342Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-06T15:54:51.966Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T15:54:52.005Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T15:54:52.008Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T15:54:52.037Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-06T15:57:55.994Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T15:57:56.032Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T15:57:56.036Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T15:57:56.066Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: ObjectParameterError: Parameter "obj" to Document() must be an object, got 998934820012',
+  level: 'error',
+  timestamp: '2021-08-06T15:58:00.288Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: ObjectParameterError: Parameter "obj" to Document() must be an object, got 998934820042',
+  level: 'error',
+  timestamp: '2021-08-06T15:58:09.681Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: ObjectParameterError: Parameter "obj" to Document() must be an object, got 998934820042',
+  level: 'error',
+  timestamp: '2021-08-06T15:58:10.798Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-06T15:59:44.511Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T15:59:44.546Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T15:59:44.549Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T15:59:44.577Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-06T16:01:55.449Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-06T16:01:55.491Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-06T16:01:55.497Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-06T16:01:55.534Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-06T16:02:37.571Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:02:37.572Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-06T16:03:38.118Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:03:38.119Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-06T16:04:12.512Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:04:12.513Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-06T16:04:31.980Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:04:31.981Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-06T16:04:58.647Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:04:58.647Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T06:48:48.008Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T06:48:48.049Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T06:48:48.053Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T06:48:48.080Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T06:51:03.412Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T06:51:03.455Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T06:51:03.459Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T06:51:03.491Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T06:52:22.006Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T06:52:22.053Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T06:52:22.058Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T06:52:22.095Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T06:57:02.886Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T06:57:02.922Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T06:57:02.925Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T06:57:02.958Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T06:58:00.650Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T06:58:00.687Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T06:58:00.690Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T06:58:00.717Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:01:19.644Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:01:19.680Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:01:19.683Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:01:19.714Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:04:29.615Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:04:29.651Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:04:29.654Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:04:29.682Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:04:57.058Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:04:57.093Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:04:57.097Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:04:57.128Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:05:36.774Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:05:36.810Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:05:36.814Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:05:36.841Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:07:15.808Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:07:15.844Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:07:15.847Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:07:15.875Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:07:52.621Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:07:52.659Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:07:52.663Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:07:52.694Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:13:07.749Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:13:07.785Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:13:07.788Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:13:07.817Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186780.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:13:33.636Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186780.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:13:34.675Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186780.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:13:45.306Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186781.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:13:52.123Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:15:50.173Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:15:50.217Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:15:50.222Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:15:50.262Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:16:11.565Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:16:11.600Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:16:11.604Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:16:11.632Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:17:10.246Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:17:10.282Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:17:10.285Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:17:10.313Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:17:37.523Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:17:37.566Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:17:37.570Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:17:37.605Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:18:47.825Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:18:47.863Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:18:47.867Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:18:47.899Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:21:21.743Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:21:21.778Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:21:21.782Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:21:21.808Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186781.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:23:15.005Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T07:42:12.458Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T07:42:12.494Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T07:42:12.498Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T07:42:12.524Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186780.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:43:31.548Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186781.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:43:36.803Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186782.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T09:46:02.693Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:49:10.273Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:49:10.307Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:49:10.311Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:49:10.338Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:51:43.048Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:51:43.086Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:51:43.090Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:51:43.124Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186784.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T09:51:48.273Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186784.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T09:51:54.315Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:52:45.547Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:52:45.586Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:52:45.590Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:52:45.628Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:53:24.203Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:53:24.274Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:53:24.279Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:53:24.312Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:55:50.086Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:55:50.121Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:55:50.125Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:55:50.152Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: `storage.contact.findOne: finished with error: CastError: Cast to Number failed for value "{ firstName: 'Samandar', lastName: 'Obidov', phone: '998935186784' }" (type Object) at path "phone" for model "Contact"`,
+  level: 'error',
+  timestamp: '2021-08-09T09:55:55.957Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:56:38.232Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:56:38.269Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:56:38.272Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:56:38.312Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:57:10.093Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:57:10.132Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:57:10.136Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:57:10.181Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:58:07.924Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:58:07.959Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:58:07.964Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:58:07.999Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:58:51.627Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:58:51.662Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:58:51.665Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:58:51.695Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T09:59:26.592Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T09:59:26.627Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T09:59:26.631Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T09:59:26.665Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:00:44.680Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:00:44.681Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:03:01.296Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:03:01.336Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:03:01.339Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:03:01.369Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:03:08.472Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:08.473Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:03:14.550Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:14.551Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:03:15.564Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:15.565Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:03:16.545Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:16.545Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:03:35.120Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:35.121Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:03:41.440Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:41.441Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:03:42.546Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:42.547Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:03:48.771Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:48.771Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:04:16.935Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:04:16.974Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:04:16.977Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:04:17.012Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:04:17.336Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:04:17.337Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:05:25.069Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:05:25.105Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:05:25.109Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:05:25.143Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:05:27.517Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:05:27.518Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:05:28.605Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:05:28.606Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:06:44.698Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:06:44.738Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:06:44.742Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:06:44.773Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:07:36.940Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:19:16.379Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:19:16.416Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:19:16.419Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:19:16.451Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:21:52.785Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:21:52.824Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:21:52.828Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:21:52.859Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:24:51.533Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:24:51.568Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:24:51.573Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:24:51.603Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:25:23.746Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:25:23.782Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:25:23.786Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:25:23.814Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:26:37.997Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:26:38.035Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:26:38.039Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:26:38.067Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:28:22.687Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:28:22.722Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:28:22.726Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:28:22.754Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:28:47.310Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:28:47.373Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:28:47.378Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:28:47.425Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:29:39.283Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:30:13.426Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:31:20.694Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:31:20.739Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:31:20.743Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:31:20.775Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:31:24.802Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:36:35.688Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:36:35.689Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.get failed to findOne',
+  level: 'warn',
+  timestamp: '2021-08-09T10:36:41.140Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:36:41.140Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:37:10.756Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:37:10.795Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:37:10.799Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:37:10.827Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:38:37.955Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:38:37.992Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:38:37.995Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:38:38.022Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:38:58.316Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:38:58.353Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:38:58.357Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:38:58.383Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:41:04.405Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:41:04.451Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:41:04.454Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:41:04.496Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:41:27.445Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:42:08.862Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:42:08.901Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:42:08.904Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:42:08.934Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:45:06.058Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:45:06.093Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:45:06.096Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:45:06.126Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T10:46:23.338Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T10:46:23.374Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T10:46:23.378Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T10:46:23.408Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T11:51:16.874Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T11:51:16.914Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T11:51:16.919Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T11:51:16.953Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: DATABASE URL: mongodb://localhost:27017/contact-ts',
+  level: 'info',
+  timestamp: '2021-08-09T11:51:42.558Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Database connection initialized.',
+  level: 'info',
+  timestamp: '2021-08-09T11:51:42.595Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'INDEX: Server is running on port: 3000',
+  level: 'info',
+  timestamp: '2021-08-09T11:51:42.599Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'DB: mongo db connection is established',
+  level: 'info',
+  timestamp: '2021-08-09T11:51:42.626Z',
+  label: 'contact-ts',
+  metadata: {}
+}

@@ -1,0 +1,280 @@
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T15:43:21.591Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T15:43:49.141Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: ObjectParameterError: Parameter "obj" to Document() must be an object, got 998934820012',
+  level: 'error',
+  timestamp: '2021-08-06T15:58:00.288Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: ObjectParameterError: Parameter "obj" to Document() must be an object, got 998934820042',
+  level: 'error',
+  timestamp: '2021-08-06T15:58:09.681Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: ObjectParameterError: Parameter "obj" to Document() must be an object, got 998934820042',
+  level: 'error',
+  timestamp: '2021-08-06T15:58:10.798Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:02:37.572Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:03:38.119Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:04:12.513Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:04:31.981Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-06T16:04:58.647Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186780.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:13:33.636Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186780.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:13:34.675Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186780.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:13:45.306Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186781.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:13:52.123Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186781.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:23:15.005Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186780.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:43:31.548Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186781.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T07:43:36.803Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186782.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T09:46:02.693Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186784.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T09:51:48.273Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186784.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T09:51:54.315Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: `storage.contact.findOne: finished with error: CastError: Cast to Number failed for value "{ firstName: 'Samandar', lastName: 'Obidov', phone: '998935186784' }" (type Object) at path "phone" for model "Contact"`,
+  level: 'error',
+  timestamp: '2021-08-09T09:55:55.957Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:00:44.681Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:08.473Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:14.551Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:15.565Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:16.545Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:35.121Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:41.441Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:42.547Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:03:48.771Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:04:17.337Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:05:27.518Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:05:28.606Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:07:36.940Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:29:39.283Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:30:13.426Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:31:24.802Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:36:35.689Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.findOne: finished with error: Error: Db object is not found',
+  level: 'error',
+  timestamp: '2021-08-09T10:36:41.140Z',
+  label: 'contact-ts',
+  metadata: {}
+}
+{
+  message: 'storage.contact.create: finished with error: MongoError: E11000 duplicate key error collection: contact-ts.contacts index: phone_1 dup key: { phone: 998935186786.0 }',
+  level: 'error',
+  timestamp: '2021-08-09T10:41:27.445Z',
+  label: 'contact-ts',
+  metadata: {}
+}
